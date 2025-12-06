@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
 		<Metadata>
-			<Identity Language="en-US" Id="miami-wind" Version="0.4.0" Publisher="hanakin" />
+			<Identity Language="en-US" Id="miami-wind-vscode" Version="0.4.0" Publisher="hanakin" />
 			<DisplayName>Miami Wind</DisplayName>
 			<Description xml:space="preserve">A VsCode theme based on Miami Wind color scheme which is a blend of colors from Tailwind CSS and Greyscale colors from Catppuccin Mocha with inspiration from the theme Miami Nights for Monkeytype.</Description>
 			<Tags>theme,color-theme,__web_extension</Tags>
