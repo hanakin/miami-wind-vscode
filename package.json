@@ -1,16 +1,16 @@
 {
-	"name": "miami-wind",
+	"name": "miami-wind-vscode",
 	"license": "MIT",
-	"displayName": "Miami Wind",
-	"description": "a VsCode Color theme based on monkeytype's miami nights theme, catppuccin, and dracula themes using tailwind colors",
-	"version": "0.3.1",
+	"displayName": "Miami Wind VsCode Theme",
+	"description": "A VsCode theme based on Miami Wind color scheme which is a blend of colors from Tailwind CSS and Greyscale colors from Catppuccin Mocha with inspiration from the theme Miami Nights for Monkeytype.",
+	"version": "0.4.0",
 	"engines": {
 		"vscode": "^1.80.0",
 		"node": ">=20.0.0"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/hanakin/miami-wind"
+		"url": "https://github.com/hanakin/miami-wind-vscode"
 	},
 	"publisher": "hanakin",
 	"categories": [
@@ -25,5 +25,10 @@
 			}
 		]
 	},
-	"icon": "icon.png"
+	"icon": "icon.png",
+	"__metadata": {
+		"installedTimestamp": 1763329033505,
+		"targetPlatform": "universal",
+		"size": 343594
+	}
 }

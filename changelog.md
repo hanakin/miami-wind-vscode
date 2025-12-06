@@ -7,3 +7,5 @@
 - Overhaul the colors object using Catppuccin's Mocha object as a base.
 ## [0.3.1]
 - Updated Icon
+## [0.4.0]
+- Change repo name and move color scheme to parent repo, Overhaul readme file
